@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "libris",
+      "autoPort": false,
+      "runtimeExecutable": "C:\\laragon\\bin\\php\\php-8.4.12-Win32-vs17-x64\\php.exe",
+      "runtimeArgs": ["spark", "serve", "--port", "8081"],
+      "port": 8081
+    }
+  ]
+}
